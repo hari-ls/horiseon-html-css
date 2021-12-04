@@ -1,4 +1,4 @@
-# Code refactoring (Homework)
+# Code refactoring (Horiseon)
 
 ## Description
 
@@ -13,4 +13,4 @@ Refactoring the code of a webpage for a marketing agency to improve overall acce
 
 ## Review
 
-To review the final page from this source code please use the following link: [Click here](https://hari-ls.github.io/html-css-hw/)
+To review the final page from this source code please use the following link: [Click here](https://hari-ls.github.io/horiseon-html-css/)
